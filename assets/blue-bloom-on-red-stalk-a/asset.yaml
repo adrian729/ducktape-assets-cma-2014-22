@@ -1,0 +1,53 @@
+# descriptive: find it and understand it
+id: blue-bloom-on-red-stalk-a
+title: Blue bloom on a red stalk, lower margin left
+description: A small sprig from the lower margin of the border. A blue cup-shaped bloom with a cream underside, its petals curling back to the right, sits on a tapering red stalk that points to the left. Painted in thick, speckled pigment; the background is transparent.
+type: ornament
+categories:
+  - floral
+  - botanical
+subjects:
+  - flower
+  - bud
+  - stem
+colors:
+  - blue
+  - red
+  - cream
+facing: right
+composition: single-ornament
+
+# structural: how it is organised and related
+group: null
+render:
+  image: {}
+related:
+  - asset: cma-2014-22/flowered-u-page-border
+    role: variant
+  - asset: cma-2014-22/blue-bloom-on-red-stalk-b
+    role: variant
+usage_notes:
+  - One of the small blooms scattered along the bottom margin of fixed-floral-u-border-with-gold-and-black-ivy; small-right-red-and-blue-leaf-terminal is the other, both with the stalk pointing left.
+display_width:
+  - 80
+  - 230
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: AI-assisted extraction; the interior sits at alpha 252–253 rather than 255, invisible in use.
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Cleveland Museum of Art
+  object_title: "Leaf from a Book of Hours: Annunciation to the Shepherds (recto)"
+  object_identifier: 2014.22.a
+  date: c. 1410–20
+  artist: Boethius Illuminator (Flemish, active c. 1414–20)
+  record_url: https://clevelandart.org/art/2014.22.a
+  image_url: https://openaccess-cdn.clevelandart.org/2014.22.a/2014.22.a_full.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.clevelandart.org/open-access
+  source_sha256: 93f71d8b2b489def6609a50b5f266d8ca9d7e88c83cf567c70d38901ce93f470
+license: null

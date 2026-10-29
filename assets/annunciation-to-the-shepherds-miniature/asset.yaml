@@ -1,0 +1,68 @@
+# descriptive: find it and understand it
+id: annunciation-to-the-shepherds-miniature
+title: Annunciation to the Shepherds, framed miniature
+description: The whole arched miniature of the leaf. In the upper lobe an angel in a red robe flies to the left on a bank of blue and white clouds under a deep blue sky with gold stars, holding a blank white scroll; a gold, red and blue diaper ground fills the spandrels. Below, four shepherds in red, blue and pink hooded tunics stand on a green meadow before a dark hill with two green trees and look up, a white dog leaps between them and two white sheep graze; a pink rock rises at the left. A gold and blue painted frame with an arched top encloses the scene. Opaque inside the frame, transparent outside.
+type: illustration
+categories:
+  - humans
+  - animals
+subjects:
+  - angel
+  - shepherd
+  - dog
+  - sheep
+  - scroll
+  - cloud
+  - star
+  - landscape
+  - tree
+  - hood
+  - staff
+  - wings
+  - frame
+colors:
+  - blue
+  - green
+  - red
+  - gold
+  - white
+facing: mixed
+composition: framed-scene
+
+# structural: how it is organised and related
+group: null
+render:
+  image: {}
+related:
+  - asset: cma-2014-22/announcing-angel-with-blank-scroll
+    role: variant
+  - asset: cma-2014-22/four-contacting-shepherds-with-dog-and-two-sheep
+    role: variant
+  - asset: cma-2014-22/flowered-u-page-border
+    role: companion
+usage_notes:
+  - Complete framed miniature; place it as a picture, not as a cut-out. The angel and the shepherd group are also supplied as separate cut-outs.
+  - On the leaf it sits in the open top of fixed-floral-u-border-with-gold-and-black-ivy, above the text.
+display_width:
+  - 400
+  - 1200
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: The arched top is a physical cut edge with small parchment flecks along the gold rim, and the gold leaf of the frame is worn at the top.
+master: master.png
+provenance:
+  method: native-source-extraction
+  institution: Cleveland Museum of Art
+  object_title: "Leaf from a Book of Hours: Annunciation to the Shepherds (recto)"
+  object_identifier: 2014.22.a
+  date: c. 1410–20
+  artist: Boethius Illuminator (Flemish, active c. 1414–20)
+  record_url: https://clevelandart.org/art/2014.22.a
+  image_url: https://openaccess-cdn.clevelandart.org/2014.22.a/2014.22.a_full.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.clevelandart.org/open-access
+  source_sha256: 93f71d8b2b489def6609a50b5f266d8ca9d7e88c83cf567c70d38901ce93f470
+license: null

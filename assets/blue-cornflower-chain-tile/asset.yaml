@@ -1,0 +1,62 @@
+# descriptive: find it and understand it
+id: blue-cornflower-chain-tile
+title: Blue cornflower chain, repeat tile
+description: One cycle of the cornflower chain that forms the vertical stems of the border. A blue fan-shaped bloom seen from the side sits above a round blue bloom seen from the front, both with pale-blue ribbed petals, threaded on a green stem that runs through the tile from top to bottom. The stem continues across the top and bottom edges; the background is transparent.
+type: border
+categories:
+  - floral
+  - botanical
+subjects:
+  - cornflower
+  - flower
+  - stem
+colors:
+  - blue
+  - green
+facing: none
+composition: repeat-tile
+
+# structural: how it is organised and related
+group: null
+render:
+  image: {}
+  tile:
+    axis: y
+    period: 1
+  frame:
+    corner: corner
+    slice: 30.5
+components:
+  corner:
+    master: corner-top-left.png
+    description: Top-left mitred corner, the round bloom of the tile set on the diagonal with the stem leaving to the right and downward; cut from the tile itself, not from one of the leaf's painted corners.
+related:
+  - asset: cma-2014-22/flowered-u-page-border
+    role: variant
+usage_notes:
+  - Repeats along y for a vertical chain; the build's rotated ladder gives the horizontal one.
+  - The frame atlas composes this cycle with the mitred corner; use it with border-image and round fitting. The leaf's own corners are large plants, supplied as separate cut-outs.
+  - Keep it near native size; the cycle is 262 px wide and softens when enlarged.
+display_width:
+  - 60
+  - 130
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: Native width is 262 px, so it softens above native size; the bloom edges keep a soft fringe at partial alpha.
+master: master.png
+provenance:
+  method: native-source-repeat
+  institution: Cleveland Museum of Art
+  object_title: "Leaf from a Book of Hours: Annunciation to the Shepherds (recto)"
+  object_identifier: 2014.22.a
+  date: c. 1410–20
+  artist: Boethius Illuminator (Flemish, active c. 1414–20)
+  record_url: https://clevelandart.org/art/2014.22.a
+  image_url: https://openaccess-cdn.clevelandart.org/2014.22.a/2014.22.a_full.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.clevelandart.org/open-access
+  source_sha256: 93f71d8b2b489def6609a50b5f266d8ca9d7e88c83cf567c70d38901ce93f470
+license: null

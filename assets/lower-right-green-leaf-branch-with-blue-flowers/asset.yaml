@@ -1,0 +1,56 @@
+# descriptive: find it and understand it
+id: lower-right-green-leaf-branch-with-blue-flowers
+title: Clump of blue cornflowers on tall stems
+description: The bottom-right corner plant of the border, a clump of blue cornflowers. Five fringed blue blooms, three seen from the side and two from the front, one with a small yellow centre, grow on tall green stems with narrow leaves and two green buds, rising from a mound of grass at the bottom. The paint is thin, with the parchment tone showing through the green; the background is transparent.
+type: ornament
+categories:
+  - floral
+  - botanical
+subjects:
+  - cornflower
+  - flower
+  - stem
+  - leaf
+  - bud
+  - grass
+colors:
+  - blue
+  - green
+  - tan
+facing: up
+composition: single-ornament
+
+# structural: how it is organised and related
+group: null
+render:
+  image: {}
+related:
+  - asset: cma-2014-22/flowered-u-page-border
+    role: variant
+  - asset: cma-2014-22/lower-left-green-leaf-branch-with-pink-flowers
+    role: companion
+usage_notes:
+  - Bottom-right corner plant, standing on its own grassy base; lower-left-green-leaf-branch-with-pink-flowers is its counterpart at the other end of the bottom margin.
+display_width:
+  - 160
+  - 430
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: AI-assisted extraction; the interior sits at alpha 252–253 rather than 255 (invisible in use) and the thin green paint keeps the parchment tone.
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Cleveland Museum of Art
+  object_title: "Leaf from a Book of Hours: Annunciation to the Shepherds (recto)"
+  object_identifier: 2014.22.a
+  date: c. 1410–20
+  artist: Boethius Illuminator (Flemish, active c. 1414–20)
+  record_url: https://clevelandart.org/art/2014.22.a
+  image_url: https://openaccess-cdn.clevelandart.org/2014.22.a/2014.22.a_full.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.clevelandart.org/open-access
+  source_sha256: 93f71d8b2b489def6609a50b5f266d8ca9d7e88c83cf567c70d38901ce93f470
+license: null

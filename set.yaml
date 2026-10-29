@@ -1,0 +1,21 @@
+id: cma-2014-22
+title: Cleveland 2014.22, Annunciation to the Shepherds leaf
+summary: The angel, shepherds, flock, night landscape and the flowered border pieces of a Book of Hours leaf painted by the Boethius Illuminator in Paris (?) about 1410–1420, in the Cleveland Museum of Art.
+kind: historical
+author: adrian729
+maintainer: https://github.com/adrian729/ducktape-assets/issues
+license:
+  artwork: CC0-1.0
+  notes: Extracted from Cleveland Museum of Art open access (CC0) images; see SOURCES.md.
+period: "c. 1410–1420"
+region: Paris (?), France
+style: late Gothic illumination
+origin:
+  institution: Cleveland Museum of Art
+  object_identifier: "2014.22.a"
+  record_url: https://clevelandart.org/art/2014.22.a
+tags:
+  - book-of-hours
+  - miniature
+  - border
+  - gothic

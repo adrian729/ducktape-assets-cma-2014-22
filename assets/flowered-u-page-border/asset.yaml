@@ -1,0 +1,79 @@
+# descriptive: find it and understand it
+id: flowered-u-page-border
+title: Flowered U-shaped page border with gold ivy
+description: The complete painted border of the leaf, open at the top where the miniature sat. Two vertical chains of blue cornflowers on a green stem are joined by a third along the bottom, over a loose ground of gold ivy leaves and dots on fine black penwork. Large plants fill the corners, a red and blue acanthus with a gold bird at the top left, a pot of pink flowers at the top right, a leafy pink-flowered branch at the bottom left and a clump of blue cornflowers at the bottom right; a gray-blue acanthus scroll and a second red acanthus grow from the left margin. Centre and background are transparent.
+type: frame
+categories:
+  - floral
+  - botanical
+  - scrollwork
+subjects:
+  - frame
+  - margin
+  - cornflower
+  - flower
+  - stem
+  - leaf
+  - ivy
+  - acanthus
+  - plant
+  - pot
+  - bird
+colors:
+  - blue
+  - green
+  - gold
+  - red
+  - pink
+facing: none
+composition: single-ornament
+
+# structural: how it is organised and related
+group: null
+render:
+  image: {}
+related:
+  - asset: cma-2014-22/annunciation-to-the-shepherds-miniature
+    role: companion
+  - asset: cma-2014-22/blue-cornflower-chain-tile
+    role: variant
+  - asset: cma-2014-22/upper-left-red-and-blue-acanthus-branch
+    role: variant
+  - asset: cma-2014-22/upper-right-pink-flowers-on-green-leaf-sprays
+    role: variant
+  - asset: cma-2014-22/lower-left-green-leaf-branch-with-pink-flowers
+    role: variant
+  - asset: cma-2014-22/lower-right-green-leaf-branch-with-blue-flowers
+    role: variant
+  - asset: cma-2014-22/left-gray-blue-acanthus-scroll-with-green-stem
+    role: variant
+  - asset: cma-2014-22/blue-bloom-on-red-stalk-a
+    role: variant
+  - asset: cma-2014-22/blue-bloom-on-red-stalk-b
+    role: variant
+usage_notes:
+  - Fixed page border scaled as a whole; it is open at the top, so a heading or picture goes in the gap and text inside the U. It is not a border-image, the four corners all differ and the chains are not evenly spaced.
+  - For a cornflower chain at any length use blue-cup-and-burst-flowers-on-stem; the four corner plants, the margin scroll and the two small blooms are supplied as separate cut-outs.
+display_width:
+  - 600
+  - 2000
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: The left and right sides are cut flat at the trimmed page edges, clipping the outer acanthus and leaf tips; the gold leaf of the ivy is worn, and a few stray gold specks of the ground remain near the right edge.
+master: master.png
+provenance:
+  method: native-source-extraction
+  institution: Cleveland Museum of Art
+  object_title: "Leaf from a Book of Hours: Annunciation to the Shepherds (recto)"
+  object_identifier: 2014.22.a
+  date: c. 1410–20
+  artist: Boethius Illuminator (Flemish, active c. 1414–20)
+  record_url: https://clevelandart.org/art/2014.22.a
+  image_url: https://openaccess-cdn.clevelandart.org/2014.22.a/2014.22.a_full.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.clevelandart.org/open-access
+  source_sha256: 93f71d8b2b489def6609a50b5f266d8ca9d7e88c83cf567c70d38901ce93f470
+license: null

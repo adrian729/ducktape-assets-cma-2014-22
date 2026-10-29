@@ -1,0 +1,50 @@
+# descriptive: find it and understand it
+id: small-blue-and-gold-four-point-line-end-floret
+title: Blue and gold line-end floret
+description: A tiny four-pointed floret of gold leaf with blue paint between the arms, of the kind that closes a short text line. The gold is lumpy and cracked and the outline is soft; the background is transparent.
+type: ornament
+categories:
+  - geometric
+subjects:
+  - line-filler
+  - fleuron
+colors:
+  - gold
+  - blue
+facing: none
+composition: single-ornament
+
+# structural: how it is organised and related
+group: null
+render:
+  image: {}
+related:
+  - asset: cma-2014-22/long-blue-and-gold-line-end-scroll-bar
+    role: companion
+  - asset: cma-2014-22/short-blue-and-gold-line-end-scroll-bar
+    role: companion
+usage_notes:
+  - Use at text size as a line-end mark or bullet; the two line-filler bars are its companions from the same text block.
+display_width:
+  - 32
+  - 65
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: Only 131 px square, so it blurs when enlarged, and the outline is soft at partial alpha.
+master: master.png
+provenance:
+  method: native-source-extraction
+  institution: Cleveland Museum of Art
+  object_title: "Leaf from a Book of Hours: Annunciation to the Shepherds (recto)"
+  object_identifier: 2014.22.a
+  date: c. 1410–20
+  artist: Boethius Illuminator (Flemish, active c. 1414–20)
+  record_url: https://clevelandart.org/art/2014.22.a
+  image_url: https://openaccess-cdn.clevelandart.org/2014.22.a/2014.22.a_full.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.clevelandart.org/open-access
+  source_sha256: 93f71d8b2b489def6609a50b5f266d8ca9d7e88c83cf567c70d38901ce93f470
+license: null

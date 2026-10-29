@@ -1,0 +1,59 @@
+# descriptive: find it and understand it
+id: four-contacting-shepherds-with-dog-and-two-sheep
+title: Four shepherds with a dog and two sheep
+description: Four shepherds stand in a close group looking up at the sky. From the left, a bearded man in a blue hood and red tunic with a staff over his shoulder, a youth in a pink tunic, a man in a red hood and blue tunic holding a long staff, and a bearded man in a blue hood and red tunic striped in gold, leaning on a crook and gesturing. A white dog leaps up between them and two white sheep graze at their feet; hose in blue, red and pink, black shoes. Cut from the miniature; the meadow and hill are removed and the background is transparent.
+type: illustration
+categories:
+  - humans
+  - animals
+subjects:
+  - shepherd
+  - man
+  - dog
+  - sheep
+  - staff
+  - hood
+  - robe
+colors:
+  - red
+  - blue
+  - white
+  - pink
+  - black
+facing: mixed
+composition: multiple-figures
+
+# structural: how it is organised and related
+group: null
+render:
+  image: {}
+related:
+  - asset: cma-2014-22/annunciation-to-the-shepherds-miniature
+    role: variant
+  - asset: cma-2014-22/announcing-angel-with-blank-scroll
+    role: companion
+usage_notes:
+  - The shepherds look up and to the left; pair the group with announcing-angel-with-blank-scroll placed above it, as in the miniature.
+display_width:
+  - 240
+  - 700
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: AI-assisted extraction; the interior sits at alpha 252–253 rather than 255, invisible in use.
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Cleveland Museum of Art
+  object_title: "Leaf from a Book of Hours: Annunciation to the Shepherds (recto)"
+  object_identifier: 2014.22.a
+  date: c. 1410–20
+  artist: Boethius Illuminator (Flemish, active c. 1414–20)
+  record_url: https://clevelandart.org/art/2014.22.a
+  image_url: https://openaccess-cdn.clevelandart.org/2014.22.a/2014.22.a_full.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.clevelandart.org/open-access
+  source_sha256: 93f71d8b2b489def6609a50b5f266d8ca9d7e88c83cf567c70d38901ce93f470
+license: null

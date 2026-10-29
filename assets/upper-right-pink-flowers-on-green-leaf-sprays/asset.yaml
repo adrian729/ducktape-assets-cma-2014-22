@@ -1,0 +1,57 @@
+# descriptive: find it and understand it
+id: upper-right-pink-flowers-on-green-leaf-sprays
+title: Potted plant with pink four-petalled flowers
+description: The top-right corner plant of the border. A bushy plant of long, ribbed green leaves spreads from an orange-red pot and carries four pinkish-violet four-petalled flowers along the top and a pink bud at the right; under the pot a blue cornflower bloom marks where the border's vertical chain begins. The green is thin and speckled with the parchment tone; the background is transparent.
+type: ornament
+categories:
+  - floral
+  - botanical
+subjects:
+  - flower
+  - plant
+  - leaf
+  - pot
+  - cornflower
+  - bud
+colors:
+  - green
+  - pink
+  - red
+  - blue
+facing: up
+composition: single-ornament
+
+# structural: how it is organised and related
+group: null
+render:
+  image: {}
+related:
+  - asset: cma-2014-22/flowered-u-page-border
+    role: variant
+  - asset: cma-2014-22/upper-left-red-and-blue-acanthus-branch
+    role: companion
+usage_notes:
+  - Top-right corner plant; the cornflower under the pot lets it sit on top of a vertical run of blue-cup-and-burst-flowers-on-stem. upper-left-red-and-blue-acanthus-branch is its counterpart at the other top corner.
+display_width:
+  - 240
+  - 680
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: AI-assisted extraction; the interior sits at alpha 252–253 rather than 255 (invisible in use) and the thin green paint keeps the parchment tone.
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Cleveland Museum of Art
+  object_title: "Leaf from a Book of Hours: Annunciation to the Shepherds (recto)"
+  object_identifier: 2014.22.a
+  date: c. 1410–20
+  artist: Boethius Illuminator (Flemish, active c. 1414–20)
+  record_url: https://clevelandart.org/art/2014.22.a
+  image_url: https://openaccess-cdn.clevelandart.org/2014.22.a/2014.22.a_full.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.clevelandart.org/open-access
+  source_sha256: 93f71d8b2b489def6609a50b5f266d8ca9d7e88c83cf567c70d38901ce93f470
+license: null

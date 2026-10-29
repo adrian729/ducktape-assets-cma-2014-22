@@ -1,0 +1,50 @@
+# descriptive: find it and understand it
+id: acanthus-initial-infill
+title: Red and violet acanthus infill of an initial
+description: The painted infill of a decorated initial from the text, a two-lobed field shaped like a B and outlined by a thin blue band. Inside it blue stems coil through both lobes and throw off red and violet acanthus leaves with cream-white folded tips, with the spaces between the leaves open. The letter stroke, its square field and the gold ground are removed; the background is transparent.
+type: ornament
+categories:
+  - floral
+  - scrollwork
+subjects:
+  - acanthus
+  - leaf
+  - scroll
+  - vine
+colors:
+  - blue
+  - red
+  - purple
+  - white
+facing: none
+composition: single-ornament
+
+# structural: how it is organised and related
+group: null
+render:
+  image: {}
+usage_notes:
+  - Reads as a medallion on a plain ground; the open spaces between the leaves show whatever is behind it.
+display_width:
+  - 120
+  - 350
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: Worn paint, the blue band is broken in places and small flecks of the former gold ground remain between the leaves.
+master: master.png
+provenance:
+  method: native-source-extraction
+  institution: Cleveland Museum of Art
+  object_title: "Leaf from a Book of Hours: Annunciation to the Shepherds (recto)"
+  object_identifier: 2014.22.a
+  date: c. 1410–20
+  artist: Boethius Illuminator (Flemish, active c. 1414–20)
+  record_url: https://clevelandart.org/art/2014.22.a
+  image_url: https://openaccess-cdn.clevelandart.org/2014.22.a/2014.22.a_full.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.clevelandart.org/open-access
+  source_sha256: 93f71d8b2b489def6609a50b5f266d8ca9d7e88c83cf567c70d38901ce93f470
+license: null

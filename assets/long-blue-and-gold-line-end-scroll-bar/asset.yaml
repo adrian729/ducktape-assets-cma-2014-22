@@ -1,0 +1,51 @@
+# descriptive: find it and understand it
+id: long-blue-and-gold-line-end-scroll-bar
+title: Blue and gold line filler, long
+description: A long horizontal line filler from the text, a worn band of gold leaf over a strip of blue paint with small curled hooks at the ends, made of three short segments set end to end with narrow gaps between them. The gold is cracked and partly bare and the blue mottled, as painted; the background is transparent.
+type: divider
+categories:
+  - geometric
+  - scrollwork
+subjects:
+  - line-filler
+  - flourish
+colors:
+  - gold
+  - blue
+facing: none
+composition: single-ornament
+
+# structural: how it is organised and related
+group: null
+render:
+  image: {}
+related:
+  - asset: cma-2014-22/short-blue-and-gold-line-end-scroll-bar
+    role: variant
+  - asset: cma-2014-22/small-blue-and-gold-four-point-line-end-floret
+    role: companion
+usage_notes:
+  - Fills the end of a text line; scale it to the line height with the gold band at the top. short-blue-and-gold-line-end-scroll-bar is the one-segment version.
+display_width:
+  - 200
+  - 420
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: Original paint loss, the gold is flaked down to the ground in places, and the edges are feathered at partial alpha.
+master: master.png
+provenance:
+  method: native-source-extraction
+  institution: Cleveland Museum of Art
+  object_title: "Leaf from a Book of Hours: Annunciation to the Shepherds (recto)"
+  object_identifier: 2014.22.a
+  date: c. 1410–20
+  artist: Boethius Illuminator (Flemish, active c. 1414–20)
+  record_url: https://clevelandart.org/art/2014.22.a
+  image_url: https://openaccess-cdn.clevelandart.org/2014.22.a/2014.22.a_full.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.clevelandart.org/open-access
+  source_sha256: 93f71d8b2b489def6609a50b5f266d8ca9d7e88c83cf567c70d38901ce93f470
+license: null

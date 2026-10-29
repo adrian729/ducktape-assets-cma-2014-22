@@ -1,0 +1,54 @@
+# descriptive: find it and understand it
+id: left-gray-blue-acanthus-scroll-with-green-stem
+title: Gray-blue acanthus scroll with a pink bud
+description: A tall acanthus sprig from the left margin of the border. A gray-blue stem rises from a round pink bud at the bottom, which sprouts a short green stalk to the right, and curls twice to the right into dotted gray-blue scrolls, each carrying a green leaf. The stem is cut flat at the left where the page was trimmed; the background is transparent.
+type: ornament
+categories:
+  - floral
+  - scrollwork
+subjects:
+  - acanthus
+  - leaf
+  - scroll
+  - stem
+  - bud
+colors:
+  - gray
+  - blue
+  - green
+  - pink
+facing: up
+composition: single-ornament
+
+# structural: how it is organised and related
+group: null
+render:
+  image: {}
+related:
+  - asset: cma-2014-22/flowered-u-page-border
+    role: variant
+usage_notes:
+  - Vertical margin sprig; it sits on the outer side of the chain in fixed-floral-u-border-with-gold-and-black-ivy, with the scrolls turning in towards the text.
+display_width:
+  - 100
+  - 280
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: AI-assisted extraction; the interior sits at alpha 252–253 rather than 255 (invisible in use), and the left edge of the stem is a flat cut at the page edge.
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Cleveland Museum of Art
+  object_title: "Leaf from a Book of Hours: Annunciation to the Shepherds (recto)"
+  object_identifier: 2014.22.a
+  date: c. 1410–20
+  artist: Boethius Illuminator (Flemish, active c. 1414–20)
+  record_url: https://clevelandart.org/art/2014.22.a
+  image_url: https://openaccess-cdn.clevelandart.org/2014.22.a/2014.22.a_full.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.clevelandart.org/open-access
+  source_sha256: 93f71d8b2b489def6609a50b5f266d8ca9d7e88c83cf567c70d38901ce93f470
+license: null
