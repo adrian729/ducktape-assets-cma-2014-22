@@ -3,7 +3,7 @@
 
 The angel, shepherds, flock, night landscape and the flowered border pieces of a Book of Hours leaf painted by the Boethius Illuminator in Paris (?) about 1410–1420, in the Cleveland Museum of Art.
 
-Part of [Ducktape Assets](https://github.com/adrian729/ducktape-assets). Set id `cma-2014-22`, historical, 16 assets.
+Part of [Ducktape Assets](https://github.com/adrian729/ducktape-assets). Set id `cma-2014-22`, historical, 16 assets, version 1.0.0.
 
 ## Licence and attribution
 
@@ -13,10 +13,10 @@ Author: adrian729. Maintainer: https://github.com/adrian729/ducktape-assets/issu
 
 ## Use one asset
 
-No version is published yet. Once it is, pin the exact version (never `@latest`); the URL scheme is:
+Pin the exact version (never `@latest`). For `cma-2014-22/acanthus-initial-infill`:
 
-```
-https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-cma-2014-22@<version>/webp/<asset-id>-<width>.webp
+```html
+<img src="https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-cma-2014-22@1.0.0/webp/acanthus-initial-infill-512.webp" alt="" loading="lazy">
 ```
 
 Package `@ranx729/ducktape-assets-cma-2014-22`; every file, width and format is listed in its `manifest.json`. Masters live in git under `assets/<id>/` and in `@ranx729/ducktape-assets-cma-2014-22-masters`; never put a master on a page.
